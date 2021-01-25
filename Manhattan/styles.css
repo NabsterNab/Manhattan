@@ -1,0 +1,161 @@
+body {
+  background-color: #493323;
+  margin: 0;
+  text-align: center;
+
+}
+
+.mainlogo {
+  position: absolute;
+  left: 520px;
+  top: 200px;
+  padding: 20px;
+}
+
+.croissant {
+  position: absolute;
+  left: 350px;
+  top: 200px;
+  transform: rotate(20deg);
+}
+
+.baguette {
+  position: absolute;
+  top: 320px;
+  left: 350px;
+  transform: rotate(20deg);
+}
+
+.hamburger {
+  position: absolute;
+  left: 350px;
+  bottom: 150px;
+  transform: rotate(20deg);
+}
+
+.cupcake {
+  position: absolute;
+  left: 670px;
+  top: 200px;
+  transform: rotate(20deg);
+}
+
+.coffee {
+  position: absolute;
+  top: 200px;
+  right: 350px;
+  transform: rotate(20deg);
+}
+
+.cake1 {
+  position: absolute;
+  top: 320px;
+  right: 350px;
+  transform: rotate(20deg);
+}
+
+.pretzel {
+  position: absolute;
+  right: 350px;
+  bottom: 150px;
+  transform: rotate(20deg);
+}
+
+.bakery {
+  font-family: 'Tomatoes', sans-serif;
+  display: inline-block;
+  position: absolute;
+  bottom: 130px;
+  left: 555px;
+  width: 20%;
+}
+
+@font-face {
+  font-family: 'Tomatoes';
+  src: url('Manhattan\Tomatoes-O8L8.ttf'), url('Manhattan\Tomatoes-O8L8.ttf') format('truetype'), url('Manhattan\Tomatoes-O8L8.ttf') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.middle-container {
+  background-color: #91684a;
+  margin-top: 500px;
+  margin-bottom: 0;
+  text-align: left;
+  width: 100%;
+}
+
+.grad1 {
+  height: 150px;
+  background-color: #91684a;
+  background-image: linear-gradient(#493323, #91684a);
+}
+
+h2 {
+  color: #d4ac0c;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Tomatoes', sans-serif;
+  padding-bottom: 50px;
+}
+
+.entrance {
+  width: 25%;
+
+  position: relative;
+  left: 100px;
+  background-color: #91684a;
+  clear: both;
+  margin-bottom: 100px;
+}
+
+.floating1 {
+  float: left;
+  position: absolute;
+  margin-left: 600px;
+  background-color: #91684a;
+  margin-bottom: 1000px;
+  padding-bottom: 500px;
+
+}
+
+p {
+  font-family: 'Cookie', cursive;
+  font-size: 200%;
+}
+
+.photo1 {
+  width: 25%;
+  position: relative;
+  top:330px;
+  background-color: #91684a;
+  margin-bottom: 100px;
+  display:inline-block;
+  right: 240px;
+}
+
+.photo2 {
+  width: 25%;
+}
+
+.photo3 {
+  width: 25%;
+}
+
+.photo4 {
+  width: 25%;
+}
+
+.bkclr {
+  background-color: #91684a;
+}
+
+.floating2 {
+  float: left;
+  position: relative;
+  margin-left: 600px;
+  background-color: #91684a;
+  margin-bottom: 800px;
+
+}
